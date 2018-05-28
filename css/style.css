@@ -1,0 +1,54 @@
+body {
+	background-color: #f8fff2;
+	margin: 0 auto;
+	max-width: 1400px;
+}
+
+h2 {
+	color: #00968b;
+}
+
+th {
+	color: #00968b;
+	background-color: #f8fff2;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+h1 {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+	padding: 07px 0;
+}
+
+tr:nth-child(odd) {
+	background-color: #dfe5da;
+}
+
+tr:nth-child(even) {
+	background-color: #babfb5;
+}
+
+p, h3, h4 {
+	text-align: right;
+}
+
+.trait {
+	border-top: 1px solid black;
+	padding-top: 15px;
+}
+
+.right {
+	text-align: right;
+	margin-right: 10px;
+}
+
+.color {
+	color: #00968b;
+}
